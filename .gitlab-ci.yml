@@ -1,4 +1,4 @@
-image: "arm64v8/ubuntu"
+image: "cuaesd/aesd-autotest"
 
 variables:
     GIT_SUBMODULE_STRATEGY: recursive
